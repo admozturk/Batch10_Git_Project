@@ -12,4 +12,6 @@ public class TestCase_001 {
 
     // Test with non-functional way
 
+    // everything is going well
+
 }
